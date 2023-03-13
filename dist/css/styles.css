@@ -17,8 +17,16 @@ body {
   height: 100vh;
   width: 100vw;
   overflow-x: hidden;
+  display: block;
 }
-
+.hero .accounts {
+  margin-left: 10em;
+  margin-right: 10em;
+  margin-bottom: 2em;
+  align-content: center;
+  height:26px;
+  display: inline-block;
+}
 .hero .hr {
   margin-left: 10em;
   margin-right: 10em;
