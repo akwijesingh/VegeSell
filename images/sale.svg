@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119.545" height="62.247" viewBox="0 0 119.545 62.247">
+  <g id="sale" transform="translate(-605.977 -95.537)">
+    <g id="_40f2165a405edf2145b3840fa4bd1c75" data-name="40f2165a405edf2145b3840fa4bd1c75" transform="translate(725.522 95.537) rotate(90)">
+      <path id="Path_2915" data-name="Path 2915" d="M59.419,119.4a2.191,2.191,0,0,0,.822-.158,3.75,3.75,0,0,0,2.005-3.57V3.728C62.247,1.669,60.981,0,59.419,0H2.828C1.266,0,0,1.669,0,3.728V115.66c0,1.645,1.636,3.265,2.828,3.74s1.663-.3,2.356-1.669L28.767,88.853l28.3,28.878A2.72,2.72,0,0,0,59.419,119.4Zm-2.347-12.139-28.3-29.652c-.527-1.036.943,0,0,0s.527-1.036,0,0L5.184,107.262,5.655,7.456H56.591Z" transform="translate(0 0)" fill="#ffd500"/>
+    </g>
+    <text id="Sale-2" data-name="Sale" transform="translate(659.75 136.7)" font-size="22" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.05em"><tspan x="0" y="0">Sale</tspan></text>
+  </g>
+</svg>

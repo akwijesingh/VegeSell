@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600&display=swap");
+body {
+  background-color: #fffefc;
+  margin: 0;
+  font-family: "segoe ui";
+  z-index: 1;
+  position: relative !important;
+}
+.hero {
+  background-image: url("../../images/BG.png") !important;
+  background-color: #f5fffa;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0;
+  z-index: -1;
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.hero .hr {
+  margin-left: 10em;
+  margin-right: 10em;
+  border: none;
+  background-color: #35a671;
+  height: 0.5px;
+  opacity: 0.2;
+}
+.header {
+  display: flex;
+  align-items: center;
+  margin-left: 10em;
+  margin-right: 10em;
+}
+
+.header .logo {
+  width: 6em;
+  height: 2.6em;
+  margin: 0em;
+  padding-right: 0em;
+}

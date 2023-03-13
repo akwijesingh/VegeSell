@@ -1,0 +1,253 @@
+body{font-family: 'Poppins', sans-serif;
+margin:0px;}
+
+* {
+  box-sizing: border-box;
+
+}
+
+header{
+  margin:0px;
+  padding:0px;
+  justify-content:center;  
+  background-image:url("./bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height:100vh;
+  width:100vw;
+    
+ 
+}
+
+.menu-account{
+      margin-top: 6px;
+      width: 986px;
+      height: 26px;
+      justify-content: right;
+      display: flex;
+      margin: 0 auto;
+
+      flex-wrap: wrap;
+      align-content: center;
+      padding-right: 12px;
+
+    }
+
+
+hr{ 
+  display: table;
+  margin: 0 auto;
+    width:986px;
+      height: 0.09px;
+	
+ }
+
+	
+.logo-holder{
+	  margin-right:30px;
+      display:flex; /*next to each other*/
+      flex:0.5;
+      justify-content:center;
+}
+
+img{max-width:45%;
+    max-height:45%;
+	display:block; /*remove extra space below image*/
+	margin-right:30px;
+	
+		}
+					
+nav{
+	flex:0.99;
+	display:flex;
+	}
+ul{
+   list-style:none;
+   margin:0;
+   padding:0;}
+li{
+   display:inline-block;
+   font-size:20px;
+}
+a{
+   display:inline-block;
+   color:#000000;
+   padding:15px 25px;
+   font-weight:light;
+   text-decoration:none; /*removes the underline in the link*/
+	}
+a:hover{
+   display:inline-block;
+   color:yellow;
+   /*color:#707070;*/
+   /*padding:2px;*/
+   /*font-weight:bold;*/
+   /*background-color:green;*/
+   /*border-radius:1.5em;*/
+	}
+			
+	
+.slide{ 
+margin-top:-100px;
+margin-right:10px;
+margin-bottom:-1px;
+margin-left:160px;
+
+
+}
+
+.main{
+height:346px;
+width:100%;
+display:flex;
+padding-left:16px;
+margin-top:12px;
+}
+
+.content{
+
+
+}
+
+
+.title{font-weight:semibold;
+font-size:48px;
+}
+
+
+.subtitle{font-weight:regular;
+font-size:25px;
+
+}
+
+
+
+.hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+
+  cursor: pointer;
+  font-weight:regular;
+font-size:28px;
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color:yellow;
+}
+
+.hero-image{
+position:absolute;
+
+  left:50%;
+  right:10%;
+top:33%;
+bottom:50%;
+width:100%;
+height:200%;}
+
+
+
+
+
+ #outer {
+            background: #FCF8E8;
+            text-align: center;
+			padding-bottom:150px;
+			
+        }
+        .div1 {
+            display: inline-block;
+            height:180px;
+            margin:60px;
+            width: 30%;
+           
+			background-image:url("./fruits grid.png");
+			background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+    
+  
+    
+        }
+.div2 {
+            display: inline-block;
+            height:180px;
+            margin:60px;
+            width: 30%;
+          
+			background-image:url("./vege grid.png");
+			background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+   
+        }
+		
+
+
+#services{
+
+	display:flex;
+	width: 120%; 
+}
+
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float:left;
+  width: 20%; 
+padding: 5px;
+
+border: dashed 1.5px #000;
+
+  
+}
+
+.row_item {
+	margin:0 auto;
+	  width: 90%; 
+  
+}
+  
+.center{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  margin-top:10px;
+
+}
+
+/* section 3*/
+.product card{margin:0 auto;
+}
+
+/* Float four columns side by side */
+.column1 {
+ float:left;
+  width: 90%; 
+padding: 5px;
+display:flex;
+}
+
+.rowproduct {
+	margin:0 auto;
+	  width: 90%; 
+
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+ 
+}
+
+	

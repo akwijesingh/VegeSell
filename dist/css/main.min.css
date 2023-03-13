@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600&display=swap");
+body {
+ background-color: #FFFEFC;
+ margin: 0;
+ font-family: 'segoe ui';
+ z-index: 1;
+ position: relative !important;
+}
+
+.navbar {
+ padding: 1em
+}
+
+.navbar .logo {
+ margin-left: 2em;
+ width: 10%;
+ height: 10%
+}
+
+.navbar .container {
+ display: -webkit-box;
+ display: -ms-flexbox;
+ display: flex;
+ place-content: space-between
+}
+
+.navbar ul.primary-nav {
+ display: -webkit-box;
+ display: -ms-flexbox;
+ display: flex
+}
+
+.navbar ul.primary-nav1 {
+ margin-right: 8em;
+ float: right
+}
+
+.hr {
+ margin: 0 auto;
+ width: 80%
+}
+
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0
+}
+
+section {
+ padding: 5em 2em
+}
+
+.hero {
+ text-align: center
+}
+
+.left-col h1 {
+ letter-spacing: .05em
+}
+
+.left-col .subhead2 {
+ line-height: 1.3em;
+ margin-top: .2em
+}
+
+.left-col .primary-button {
+ text-decoration: none;
+ padding: .3em 1.3em;
+ background: #F39A03;
+ color: black
+}
+
+.hero-img {
+ width: 30%
+}
+
+.food-cards {
+ background-image: url("images/section2.svg")
+}
+
+.food-cards .row {
+ margin: 0 auto;
+ padding: 0rem 10rem
+}
+
+.food-cards .row .column {
+ display: inline-block;
+ margin: auto;
+ width: 20%;
+ padding-top: 4px;
+ border: dashed 1.5px #000;
+ text-align: center
+}
+
+.food-cards .row .column .img {
+ width: 4em;
+ height: 4em;
+ margin-left: auto;
+ margin-right: auto;
+ width: 20%;
+ margin-top: 10px
+}
+
+/*# sourceMappingURL=main.min.css.map */
